@@ -14,7 +14,11 @@
   </a>&nbsp;&nbsp;
   
 </p>
-
+<p align='center'>
+  <a href="https://wa.me/918489635967">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=vijeyash&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
