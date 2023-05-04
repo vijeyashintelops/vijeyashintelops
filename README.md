@@ -6,7 +6,10 @@
 <p align='center'>
   A Golang developer.
 </p>
-![image](https://miro.medium.com/v2/resize:fit:1123/1*2gxN2Z_5FicXvYuKiNpdlA.png)
+
+
+![image](https://opengeekslab.com/wp-content/uploads/2019/11/How-to-Reduce-Time-to-Market-with-DevOps-Engineer.png)
+
 
 
 “I am a Go developer and a passionate learner. I am eager to tackle new challenges and constantly evolve in my field of expertise.”
