@@ -1,4 +1,3 @@
-Based on the information you provided, here’s a modified version of the example README that you can use for your GitHub profile:
 
 <h1 align='center'>
   Hi there 👋 I'm Vijeyash 👨‍💻
